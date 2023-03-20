@@ -9,6 +9,7 @@ form {
 }
 
 input[type=text],
+input[type=email],
 input[type=password] {
     background: var(--bright-color);
     border: 2px var(--dark-color) solid;
